@@ -146,19 +146,20 @@ a {
 
 .services__content-title {
 	color: #5a0d67;
-	font-size: 18px;
-	line-height: 27px;
+	font-size: 23px;
+	line-height: 30px;
 	font-weight: 300;
-	margin-bottom: 12px;
+	margin-bottom: 30px;
 }
 
 .services__content-textbox {
-	margin-bottom: 57px;
+	margin-bottom: 40px;
 }
 
 .services__content-text {
-	margin-bottom: 12px;
-	font-size: 18px;
+	margin-bottom: 30px;
+	font-size: 23px;
+	line-height: 30px;
 }
 
 .button--decor {
