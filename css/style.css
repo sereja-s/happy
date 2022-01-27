@@ -433,6 +433,10 @@ a {
 }
 
 @media (max-width: 1157px) {
+	.header__title {
+		font-size: 55px;
+		line-height: 65px;
+	}
 	.services__item:hover {
 		width: 450px;
 	}
