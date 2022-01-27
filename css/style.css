@@ -494,8 +494,8 @@ a {
 		line-height: 36px;
 	}
 	.header__title {
-		font-size: 54px;
-		line-height: 74px;
+		font-size: 45px;
+		line-height: 55px;
 	}
 	.header__subtitle {
 		font-size: 24px;
@@ -671,11 +671,8 @@ a {
 	.benefits__images {
 		width: 99%;
 	}
-}
-
-@media (max-width: 340px) {
 	.header__title {
-		font-size: 44px;
-		line-height: 50px;
+		font-size: 33px;
+		line-height: 45px;
 	}
 }
